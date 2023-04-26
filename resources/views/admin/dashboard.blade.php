@@ -1,4 +1,3 @@
-<x-admin-layout>
-    hodskhjfsdkjhfkj
-    
+<x-admin-layout>    
+    hola mundo 
 </x-admin-layout>
